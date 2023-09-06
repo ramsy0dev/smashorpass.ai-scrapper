@@ -1,4 +1,4 @@
 rich
-tyer
+typer
 py-proxy
 user-agent
