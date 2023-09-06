@@ -25,7 +25,7 @@ Smashorpass.ai uses Google's cloud storage. If we investigate where the website 
 You need to install some python packages:
 
 ``` bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Exploiting
@@ -38,9 +38,9 @@ After that, you can just run the script as follows with no special flags or anyt
 python smashorpass.py
 ```
 
-<!-- # Pre-installed images archive
+# Pre-installed images archive
 
-The repo already contains all the images that i could have possible obtained they are archived and located [here]() -->
+The repo already contains all the images that i could have possible obtained they are archived and located [here](), the number of the images is `3056`
 
 # License
 
