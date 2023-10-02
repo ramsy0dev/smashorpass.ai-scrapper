@@ -37,11 +37,6 @@ After that, you can just run the script as follows with no special flags or anyt
 ```bash
 python smashorpass.py
 ```
-
-# Pre-installed images archive
-
-The repo already contains all the images that i could have possible obtained they are archived and located [here](https://github.com/ramsy0dev/smashorpass.ai-scrapper/blob/main/archive/smashorpass-images-archive.zip), the number of the images is `3056`
-
 # License
 
 GPL-v3.0 license
